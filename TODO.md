@@ -3,8 +3,8 @@
 ## Phase 1: Get it Working ✨
 
 ### Basic Infrastructure
-- [ ] Test backend server (start and verify endpoints)
-- [ ] Install and run frontend (npm install && npm run dev)
+- [x] Test backend server (start and verify endpoints)
+- [x] Install and run frontend (npm install && npm run dev)
 - [ ] Verify backend-frontend communication
 - [ ] Create first experiment through UI
 
