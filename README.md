@@ -34,11 +34,6 @@ npm install
 npm run dev
 ```
 
-Or use the convenience scripts:
-```bash
-./start-backend.sh  # Starts backend on port 8000
-```
-
 ## Architecture
 
 - **Backend**: FastAPI REST API for experiment management
@@ -56,10 +51,6 @@ Or use the convenience scripts:
 - [ ] Basic scoring system
 - [ ] Frontend dashboard
 - [ ] Leaderboard
-
-## Contributing
-
-This is a personal tinkering project. Feel free to fork and experiment!
 
 ## License
 
